@@ -163,4 +163,4 @@ By following these steps, users can seamlessly participate in the decentralized 
 
 ## Further Assistance
 
-For further assistance or inquiries, please contact Prabagaran Sellamuthu at prabagaran.sellamuthu2@dcu.mail.ie.
+For further assistance or inquiries, please contact Prabagaran Sellamuthu at pgaran788@gmail.com

@@ -157,6 +157,10 @@ By following these steps, users can seamlessly participate in the decentralized 
 
 - Prabagaran Sellamuthu
 
+## Architecture Diagram
+![image](https://github.com/prabagaran-sellamuthu/ethereum-evote/assets/38026104/eb29e334-1c3d-40ac-9a21-a9c913ff68ed)
+
+
 ## Further Assistance
 
 For further assistance or inquiries, please contact Prabagaran Sellamuthu at prabagaran.sellamuthu2@dcu.mail.ie.
